@@ -1,5 +1,6 @@
 name = "Pokebouli-Options"
 filename = "options.txt"
+path = "options.txt"
 side = "both"
 
 [download]

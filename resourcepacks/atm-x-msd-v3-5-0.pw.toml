@@ -1,0 +1,8 @@
+name = "ATM.x.MSD.v3.5.0"
+filename = "ATM.x.MSD.v3.5.0.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/resourcepacks/ATM.x.MSD.v3.5.0.zip"
+hash-format = "sha256"
+hash = "52009e7a649e54a8dfeea91ad8123e623d40f6477596b18e7d9b287f18f6383c"

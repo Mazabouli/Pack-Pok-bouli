@@ -1,0 +1,8 @@
+name = "pokopia-1.1"
+filename = "pokopia-1.1.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/resourcepacks/pokopia-1.1.zip"
+hash-format = "sha256"
+hash = "59443bc40c324acb06a67312aac4b6073d471c1fc7016afbb13ae66ba9381d6d"

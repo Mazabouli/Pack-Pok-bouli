@@ -1,8 +1,0 @@
-name = "Pokebouli-ResourcePack-1"
-filename = "resourcepacks.1.zip"
-side = "both"
-
-[download]
-url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/resourcepacks.1.zip"
-hash-format = "sha256"
-hash = "1876cdbcb3bdc0bc98593be64cf300627dad1d3cd3201fcd3273a09041c55f0e"

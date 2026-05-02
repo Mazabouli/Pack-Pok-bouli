@@ -1,0 +1,8 @@
+name = "Maxi.s-JM+CM_Pixel-U11"
+filename = "Maxi.s-JM+CM_Pixel-U11.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/resourcepacks/Maxi.s-JM%2BCM_Pixel-U11.zip"
+hash-format = "sha256"
+hash = "69b895090273093492ea7eded6d7dfb0ff5a8460ec4bc50d369f300aabad299d"

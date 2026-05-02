@@ -1,0 +1,8 @@
+name = "Pokebouli.Pack"
+filename = "Pokebouli.Pack.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/resourcepacks/Pokebouli.Pack.zip"
+hash-format = "sha256"
+hash = "886eba292695d50c6b8e247ea65d30be975d71cf3c91e35bde25fdd910aa0ef0"

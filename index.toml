@@ -1086,17 +1086,77 @@ metafile = true
 
 [[files]]
 file = "pokebouli-options.pw.toml"
-hash = "96a6471d3ec5107a98a1414d08685f95548cb14920097a63434578ca60e99205"
+hash = "0b923db2563428965a5d4eff299b3361bbd2b5cea8c5f7eca16f29e4816593eb"
 metafile = true
 
 [[files]]
-file = "resourcepacks/pokebouli-resourcepack-1.pw.toml"
-hash = "62e84c93d962183c445087d83e5bbbce7b11cbe2bcd4d16bb302c15664294688"
+file = "resourcepacks/atm-x-msd-v3-5-0.pw.toml"
+hash = "084e067cb5de8fad84770b5cfba6514147864a5666c2ef49f51cd9e83aa7cda2"
 metafile = true
 
 [[files]]
-file = "resourcepacks/pokebouli-resourcepack-2.pw.toml"
-hash = "e21ebe539a3301a1c4eea88b70331200f6dcddcb6f744347c77f332550468841"
+file = "resourcepacks/better-caps-v1-1.pw.toml"
+hash = "249d071d41247787447a2c3c65d7029ccacc7f352bba03532e10bdec719cde1f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ccc-2-0-1.pw.toml"
+hash = "142f08aed16ef20e7607b7d52f0a8b0ea82491846d31cd12e36a475cdbac41ce"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cobblemonloadingbackgrounds-1-0-2.pw.toml"
+hash = "3c15f7b6d6341c0fc3ee6924aaf440379f218aa77c65619d2c56b08beebca83a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cobblemotion-v1-5.pw.toml"
+hash = "4a7c8814848f992531ba6b01c4e08c5fd1725d5d12aaf19b004a9bec9583c61b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cobbletcg-resourcepack1.pw.toml"
+hash = "302f9825bab969702bcbda8650130894a22a418c60dc93e9140b633d046276a8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cobbletcg-resourcepack2.pw.toml"
+hash = "222b026327d17848ed49bf688eaa0aa805b61b366c2cb64470b22ac43f96934c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cobbletcg-resourcepack3.pw.toml"
+hash = "aca08c789da0aea2f0368aabc3d56415fb95c57ac7807b8116e44a7a595d2843"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cobbletcg-resourcepack4.pw.toml"
+hash = "4709d635594c3b25147e745a651575c215cc62503fd695033f773414058a4f1c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/gmoremons-0-04.pw.toml"
+hash = "c851514f2b2c0132a52e95b0d3dd4cd2627101d2693c1e721645b2684f787b4a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/maxi-s-jm-cm-pixel-u11.pw.toml"
+hash = "384155922ce09c13cd1147693d58ea87a6cc2e6725139a5bd2451b327f6bf1ce"
+metafile = true
+
+[[files]]
+file = "resourcepacks/pokebouli-pack.pw.toml"
+hash = "51c0145e64fe1c03d8f66d51cd77af1dccaa4f10fda13cd554e45bf2638295a4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/pokopia-1-1.pw.toml"
+hash = "a5f79dfc7f7c04c953c75a8bda2911f49797ea88c57367a6dfefcc1ed8c409e0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/wallpapers-plus-2-0.pw.toml"
+hash = "72e35966725d9497eb600949c8b8b13123cca6178b56e5efd855b5f3de86cbf3"
 metafile = true
 
 [[files]]

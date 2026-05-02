@@ -1,0 +1,8 @@
+name = "CobblemonLoadingBackgrounds-.1.0.2"
+filename = "CobblemonLoadingBackgrounds-.1.0.2.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/resourcepacks/CobblemonLoadingBackgrounds-.1.0.2.zip"
+hash-format = "sha256"
+hash = "c9691c1987eebcc4d2e3949897360fe3d6a4b766d1ae93d8f4d03bae63f4d566"

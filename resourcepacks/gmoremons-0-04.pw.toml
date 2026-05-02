@@ -1,0 +1,8 @@
+name = "GmoreMons_0.04"
+filename = "GmoreMons_0.04.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/resourcepacks/GmoreMons_0.04.zip"
+hash-format = "sha256"
+hash = "649993e26f4d0daea025c597d0464c44d3b45aae18e1b2d831cf7c55240c3fcd"
