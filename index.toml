@@ -620,11 +620,6 @@ hash = "af2939a3db9d5e53ff508bf6160857566c0632588fe21fdeb9efdcb57e268e87"
 metafile = true
 
 [[files]]
-file = "mods/lithostitched-1-6-3-fabric-21-1.pw.toml"
-hash = "86ade3b4e806daf666098e2ddca881f33703c3e3fef894957ce6b82a7b59c906"
-metafile = true
-
-[[files]]
 file = "mods/lithostitched-1-6-6-fabric-21-1.pw.toml"
 hash = "f22eeb0b897de4ff7ed255527c1c2c3bdf4fcd421c4b57fa103a26a4d2932704"
 metafile = true
@@ -797,21 +792,6 @@ metafile = true
 [[files]]
 file = "mods/pokeblocks-1-5-0-1-21-1.pw.toml"
 hash = "0bf16bbfe7fe2dd1fe069db00174416a3116a90081381f2c4dfe49da68ea0607"
-metafile = true
-
-[[files]]
-file = "mods/pokebouli-options.pw.toml"
-hash = "96a6471d3ec5107a98a1414d08685f95548cb14920097a63434578ca60e99205"
-metafile = true
-
-[[files]]
-file = "mods/pokebouli-resourcepack-1.pw.toml"
-hash = "27d414e02e8eccf9ecedb065e723945f29debb8d2e812f7fff1bf08bd96137bc"
-metafile = true
-
-[[files]]
-file = "mods/pokebouli-resourcepack-2.pw.toml"
-hash = "16ec73b14f289498dd70c5b6fd3044e63bfa2efe4931f3c4ee07b89eed659ce1"
 metafile = true
 
 [[files]]
@@ -1111,12 +1091,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/pokebouli-resourcepack-1.pw.toml"
-hash = "27d414e02e8eccf9ecedb065e723945f29debb8d2e812f7fff1bf08bd96137bc"
+hash = "62e84c93d962183c445087d83e5bbbce7b11cbe2bcd4d16bb302c15664294688"
 metafile = true
 
 [[files]]
 file = "resourcepacks/pokebouli-resourcepack-2.pw.toml"
-hash = "16ec73b14f289498dd70c5b6fd3044e63bfa2efe4931f3c4ee07b89eed659ce1"
+hash = "e21ebe539a3301a1c4eea88b70331200f6dcddcb6f744347c77f332550468841"
 metafile = true
 
 [[files]]
