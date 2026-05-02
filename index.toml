@@ -800,6 +800,11 @@ hash = "0bf16bbfe7fe2dd1fe069db00174416a3116a90081381f2c4dfe49da68ea0607"
 metafile = true
 
 [[files]]
+file = "mods/pokebouli-options.pw.toml"
+hash = "96a6471d3ec5107a98a1414d08685f95548cb14920097a63434578ca60e99205"
+metafile = true
+
+[[files]]
 file = "mods/pokebouli-resourcepack-1.pw.toml"
 hash = "27d414e02e8eccf9ecedb065e723945f29debb8d2e812f7fff1bf08bd96137bc"
 metafile = true
@@ -1097,6 +1102,11 @@ metafile = true
 [[files]]
 file = "mods/zamega-fabric-1-7-3.pw.toml"
 hash = "60ed6c5a631871d703a44eab36fbb88a178b4783163a693829005fd292cea6ea"
+metafile = true
+
+[[files]]
+file = "pokebouli-options.pw.toml"
+hash = "96a6471d3ec5107a98a1414d08685f95548cb14920097a63434578ca60e99205"
 metafile = true
 
 [[files]]

@@ -1,0 +1,8 @@
+name = "Pokebouli-Options"
+filename = "options.txt"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/options.txt"
+hash-format = "sha256"
+hash = "468956500352900d7f4fab9cb6c1556e563e7a09f593438a42fa5c5ec4e5bc5e"
