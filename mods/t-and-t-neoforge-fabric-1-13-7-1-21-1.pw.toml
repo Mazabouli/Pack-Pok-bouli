@@ -1,0 +1,8 @@
+name = "t_and_t-neoforge-fabric-1.13.7+1.21.1"
+filename = "t_and_t-neoforge-fabric-1.13.7+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/t_and_t-neoforge-fabric-1.13.7%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "925d61a8cee8ca013bac15cda2fcfbdf647eb1cde50c414c18298ea3a627c640"

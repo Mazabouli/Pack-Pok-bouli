@@ -1,0 +1,8 @@
+name = "mcw-fences-1.2.0-1.21.1fabric"
+filename = "mcw-fences-1.2.0-1.21.1fabric.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/mcw-fences-1.2.0-1.21.1fabric.jar"
+hash-format = "sha256"
+hash = "b72490f7324c794e042e89aa4093ea02c9a01e940a7ef868222d6b36b34a74f1"

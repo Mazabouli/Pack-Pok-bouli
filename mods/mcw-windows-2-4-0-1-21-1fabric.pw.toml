@@ -1,0 +1,8 @@
+name = "mcw-windows-2.4.0-1.21.1fabric"
+filename = "mcw-windows-2.4.0-1.21.1fabric.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/mcw-windows-2.4.0-1.21.1fabric.jar"
+hash-format = "sha256"
+hash = "622c33901beba2c408aeb210b9a609b90a27219156dbd2ec8db567f83f443195"

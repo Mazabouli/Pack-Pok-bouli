@@ -1,0 +1,8 @@
+name = "rctapi-fabric-1.21.1-0.15.0-beta"
+filename = "rctapi-fabric-1.21.1-0.15.0-beta.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/rctapi-fabric-1.21.1-0.15.0-beta.jar"
+hash-format = "sha256"
+hash = "65adeb9355b6bea23ddfe2cbdfdbd0af3072e8cb3ec5ba3e6fef176ad6475cc7"

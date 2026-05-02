@@ -1,0 +1,8 @@
+name = "CobbleFurnies-fabric-1.1"
+filename = "CobbleFurnies-fabric-1.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/CobbleFurnies-fabric-1.1.jar"
+hash-format = "sha256"
+hash = "cbcc47fcec716ace5a1446202f5cef09efe987ccaec97424575c98ef08f3321c"

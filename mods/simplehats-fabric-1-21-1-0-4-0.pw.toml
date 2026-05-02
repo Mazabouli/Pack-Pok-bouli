@@ -1,0 +1,8 @@
+name = "simplehats-fabric-1.21.1-0.4.0"
+filename = "simplehats-fabric-1.21.1-0.4.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/simplehats-fabric-1.21.1-0.4.0.jar"
+hash-format = "sha256"
+hash = "a40229fa26868c4c6c5fb83c89dd4f41f18cec3e172a14a717a4abc147a34f29"

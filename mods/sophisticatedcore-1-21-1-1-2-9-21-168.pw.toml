@@ -1,0 +1,8 @@
+name = "sophisticatedcore-1.21.1-1.2.9.21.168"
+filename = "sophisticatedcore-1.21.1-1.2.9.21.168.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/sophisticatedcore-1.21.1-1.2.9.21.168.jar"
+hash-format = "sha256"
+hash = "45ba5e7fbfa879cdabcaaf5637892662c53578ea3feeab07fa5128139f6649ac"

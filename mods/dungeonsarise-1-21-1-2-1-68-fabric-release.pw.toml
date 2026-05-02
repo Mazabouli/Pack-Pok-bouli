@@ -1,0 +1,8 @@
+name = "DungeonsArise-1.21.1-2.1.68-fabric-release"
+filename = "DungeonsArise-1.21.1-2.1.68-fabric-release.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/DungeonsArise-1.21.1-2.1.68-fabric-release.jar"
+hash-format = "sha256"
+hash = "5739ef9772abc2e3707cd349b73a38b2ab6e30c40648c9dbc883d0009fbff54e"

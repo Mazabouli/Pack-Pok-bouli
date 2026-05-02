@@ -1,0 +1,8 @@
+name = "cobblemon-battle-extras-fabric-1.13.45"
+filename = "cobblemon-battle-extras-fabric-1.13.45.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/cobblemon-battle-extras-fabric-1.13.45.jar"
+hash-format = "sha256"
+hash = "099c3dafd5c7d29e8d91f954a9598565fdd07dac235bb9c49ab305d9af37f826"

@@ -1,0 +1,8 @@
+name = "mcw-holidays-1.1.2-mc1.21.1fabric"
+filename = "mcw-holidays-1.1.2-mc1.21.1fabric.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/mcw-holidays-1.1.2-mc1.21.1fabric.jar"
+hash-format = "sha256"
+hash = "b3df75fd44b04ad1827c9afb3d69c849085f8718932f0bb17e0449d7e5a3e4a8"

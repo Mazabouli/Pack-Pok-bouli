@@ -1,0 +1,8 @@
+name = "cobblemonraiddens-fabric-0.10.0+1.21.1"
+filename = "cobblemonraiddens-fabric-0.10.0+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/cobblemonraiddens-fabric-0.10.0%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "5383030bec29484d349d341634bc6bd5fdc22dbc263fbbe07768d4132149557f"

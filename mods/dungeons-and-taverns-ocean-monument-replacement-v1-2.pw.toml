@@ -1,0 +1,8 @@
+name = "dungeons-and-taverns-ocean-monument-replacement-v1.2"
+filename = "dungeons-and-taverns-ocean-monument-replacement-v1.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/dungeons-and-taverns-ocean-monument-replacement-v1.2.jar"
+hash-format = "sha256"
+hash = "01e18eedaf5b23f6b46ef2d2f6724a508f8e7162e6ba69a10473f4c2d65de20a"

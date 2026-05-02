@@ -1,0 +1,8 @@
+name = "lightweight-inventory-sorting-1.1.2+1.21"
+filename = "lightweight-inventory-sorting-1.1.2+1.21.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/lightweight-inventory-sorting-1.1.2%2B1.21.jar"
+hash-format = "sha256"
+hash = "33f83334dd16ff9ebcf61020fab8f79dae4981558d57140d85241f9814e01b90"

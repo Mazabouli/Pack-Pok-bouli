@@ -1,0 +1,8 @@
+name = "jukeboxcustomdiscfix-0.1.5-1.21.1"
+filename = "jukeboxcustomdiscfix-0.1.5-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/jukeboxcustomdiscfix-0.1.5-1.21.1.jar"
+hash-format = "sha256"
+hash = "ee2c37591aedf112ad7b713199f61f16ca08be0218c4b6e78eff41fe2d19b8d3"

@@ -1,0 +1,8 @@
+name = "cobbledgacha-fabric-1.21.1-3.0.3"
+filename = "cobbledgacha-fabric-1.21.1-3.0.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/cobbledgacha-fabric-1.21.1-3.0.3.jar"
+hash-format = "sha256"
+hash = "b09b0cd6501810fb37a68810496bd7825168273791f548d65593f9280f729335"

@@ -1,0 +1,8 @@
+name = "Pokebouli-Config"
+filename = "config.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/config.zip"
+hash-format = "sha256"
+hash = "bb48433a9b120f7f401ff2a704ce71d98ca6c311fdaa5ca461d6a59367776cd7"

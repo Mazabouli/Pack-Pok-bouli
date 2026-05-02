@@ -1,0 +1,8 @@
+name = "handcrafted-fabric-1.21.1-4.0.3"
+filename = "handcrafted-fabric-1.21.1-4.0.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/handcrafted-fabric-1.21.1-4.0.3.jar"
+hash-format = "sha256"
+hash = "40f38cd4be6a515d4c02f564cd50a9cf1865bcee45d0aeb4c59377acc00966a5"

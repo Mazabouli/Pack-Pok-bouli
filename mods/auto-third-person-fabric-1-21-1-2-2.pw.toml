@@ -1,0 +1,8 @@
+name = "auto_third_person-fabric-1.21.1-2.2"
+filename = "auto_third_person-fabric-1.21.1-2.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/auto_third_person-fabric-1.21.1-2.2.jar"
+hash-format = "sha256"
+hash = "3d87f242b22543ee6aaead9764c853e845f8329cf8524ede34af98dc1c35c105"

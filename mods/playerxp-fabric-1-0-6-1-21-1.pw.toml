@@ -1,0 +1,8 @@
+name = "playerxp-fabric-1.0.6+1.21.1"
+filename = "playerxp-fabric-1.0.6+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/playerxp-fabric-1.0.6%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "564bd8b8569637b761e9a4c14c19a64a035cc4026f4564f5919974411915a269"

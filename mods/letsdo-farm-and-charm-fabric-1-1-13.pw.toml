@@ -1,0 +1,8 @@
+name = "letsdo-farm_and_charm-fabric-1.1.13"
+filename = "letsdo-farm_and_charm-fabric-1.1.13.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/letsdo-farm_and_charm-fabric-1.1.13.jar"
+hash-format = "sha256"
+hash = "56505f5dfd251e63a2ebba9cd6e7c4b7e7840c5b7753b70cb98d8e801bd322ea"

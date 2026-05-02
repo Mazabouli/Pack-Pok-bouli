@@ -1,0 +1,8 @@
+name = "cobblemonintegrations-fabric-1.21.1-1.1.6"
+filename = "cobblemonintegrations-fabric-1.21.1-1.1.6.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/cobblemonintegrations-fabric-1.21.1-1.1.6.jar"
+hash-format = "sha256"
+hash = "b8c87176c3ac12fc7bea9ccda6dca0fb47222f2435693e250f0a94b5f9a094c3"

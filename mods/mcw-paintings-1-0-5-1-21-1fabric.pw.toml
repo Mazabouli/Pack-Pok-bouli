@@ -1,0 +1,8 @@
+name = "mcw-paintings-1.0.5-1.21.1fabric"
+filename = "mcw-paintings-1.0.5-1.21.1fabric.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/mcw-paintings-1.0.5-1.21.1fabric.jar"
+hash-format = "sha256"
+hash = "50e1ad5d5002425f1672b0305904c4e7bbbc0bea3875f37d1ecc4652b57a4f55"

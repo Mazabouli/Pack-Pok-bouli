@@ -1,0 +1,8 @@
+name = "lithostitched-1.6.6-fabric-21.1"
+filename = "lithostitched-1.6.6-fabric-21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/lithostitched-1.6.6-fabric-21.1.jar"
+hash-format = "sha256"
+hash = "69c941dc6506fcee00c3e636e9eb6d06346fcc63c270f536b84489f79c4bc469"

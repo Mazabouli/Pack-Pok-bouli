@@ -1,0 +1,8 @@
+name = "cobblemon-journey-mounts-1.7.2"
+filename = "cobblemon-journey-mounts-1.7.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/cobblemon-journey-mounts-1.7.2.jar"
+hash-format = "sha256"
+hash = "785cf8fe41e2f691c6c4a6f16bef4a794d3753bea718ec9df461e75c5de88ece"

@@ -1,0 +1,8 @@
+name = "mcw-doors-1.1.2-mc1.21.1fabric"
+filename = "mcw-doors-1.1.2-mc1.21.1fabric.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/mcw-doors-1.1.2-mc1.21.1fabric.jar"
+hash-format = "sha256"
+hash = "0218a42d312028448985a83916ba705b956fec858911a0f4a9d5437fd7c9d6db"

@@ -1,0 +1,8 @@
+name = "enchdesc-fabric-1.21.1-21.1.9"
+filename = "enchdesc-fabric-1.21.1-21.1.9.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/enchdesc-fabric-1.21.1-21.1.9.jar"
+hash-format = "sha256"
+hash = "9689338d4918a383e9cf2eda6a51b53162e7c89f272265b268dd6cee23bc5387"

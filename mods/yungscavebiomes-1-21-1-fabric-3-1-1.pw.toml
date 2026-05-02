@@ -1,0 +1,8 @@
+name = "YungsCaveBiomes-1.21.1-Fabric-3.1.1"
+filename = "YungsCaveBiomes-1.21.1-Fabric-3.1.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/YungsCaveBiomes-1.21.1-Fabric-3.1.1.jar"
+hash-format = "sha256"
+hash = "ad5bc4ffeb8562982ef76edecf9697ab982aea9b1c573080b07d03499840082c"

@@ -1,0 +1,8 @@
+name = "mega_showdown-fabric-1.8.2+1.7.3+1.21.1-hotfix"
+filename = "mega_showdown-fabric-1.8.2+1.7.3+1.21.1-hotfix.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/mega_showdown-fabric-1.8.2%2B1.7.3%2B1.21.1-hotfix.jar"
+hash-format = "sha256"
+hash = "e9e71fa8bd1213a28c728b943869df53e524348dd8441a72446da42d3eeeac19"

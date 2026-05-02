@@ -1,0 +1,8 @@
+name = "cobblemonRIzetweaks-1.2.3"
+filename = "cobblemonRIzetweaks-1.2.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/cobblemonRIzetweaks-1.2.3.jar"
+hash-format = "sha256"
+hash = "a6f2b7321e636451ccf49c3eca44707d15ed8cc71c256cd0203dba35236d353d"

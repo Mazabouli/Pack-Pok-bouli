@@ -1,0 +1,8 @@
+name = "YungsBetterNetherFortresses-1.21.1-Fabric-3.1.4"
+filename = "YungsBetterNetherFortresses-1.21.1-Fabric-3.1.4.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/YungsBetterNetherFortresses-1.21.1-Fabric-3.1.4.jar"
+hash-format = "sha256"
+hash = "711c04a86450581ad845684a333eb05d8a05937c6ef99138a1ed9ba0b9b860b7"

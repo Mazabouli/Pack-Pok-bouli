@@ -1,0 +1,8 @@
+name = "fabric-api-0.116.11+1.21.1"
+filename = "fabric-api-0.116.11+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/fabric-api-0.116.11%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "b791de6f6dce9c58d4ea2af6c713bbcc6dc64d0a5995a8bad6f225ee58cf17d2"

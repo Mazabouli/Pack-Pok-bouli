@@ -1,0 +1,8 @@
+name = "cobbletcg-1.4.3"
+filename = "cobbletcg-1.4.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/cobbletcg-1.4.3.jar"
+hash-format = "sha256"
+hash = "d3c408db624a6570f11b59bf031aa4cb2d20d44ac91339fef3ae16dde91f9b5a"

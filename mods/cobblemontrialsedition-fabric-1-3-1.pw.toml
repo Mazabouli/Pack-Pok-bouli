@@ -1,0 +1,8 @@
+name = "CobblemonTrialsEdition-fabric-1.3.1"
+filename = "CobblemonTrialsEdition-fabric-1.3.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/CobblemonTrialsEdition-fabric-1.3.1.jar"
+hash-format = "sha256"
+hash = "c09918b07dcbcc6630dbb7b68d6abc7c6fe58f2a1bb8af32c745435197d28702"

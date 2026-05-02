@@ -1,0 +1,8 @@
+name = "moonlight-1.21-2.29.26-fabric"
+filename = "moonlight-1.21-2.29.26-fabric.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/moonlight-1.21-2.29.26-fabric.jar"
+hash-format = "sha256"
+hash = "121ff11bd8f8e2880a445027a053a90c9f061d0354853002399c07f4a18bf91a"

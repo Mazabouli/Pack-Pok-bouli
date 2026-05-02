@@ -1,0 +1,8 @@
+name = "forgivingvoid-fabric-1.21.1-21.1.5"
+filename = "forgivingvoid-fabric-1.21.1-21.1.5.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/forgivingvoid-fabric-1.21.1-21.1.5.jar"
+hash-format = "sha256"
+hash = "e3729bf58a95d192751545b4bb74b607207f5c43592d13f9fa54d126719f3a24"

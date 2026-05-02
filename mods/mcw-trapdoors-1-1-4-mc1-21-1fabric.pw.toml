@@ -1,0 +1,8 @@
+name = "mcw-trapdoors-1.1.4-mc1.21.1fabric"
+filename = "mcw-trapdoors-1.1.4-mc1.21.1fabric.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/mcw-trapdoors-1.1.4-mc1.21.1fabric.jar"
+hash-format = "sha256"
+hash = "d96a764846e1ad12c12b0fe946401ae1b07f2be727cc3d588e6bfdafff8bfd83"

@@ -1,0 +1,8 @@
+name = "cobblemon-additions-4.3.0"
+filename = "cobblemon-additions-4.3.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/cobblemon-additions-4.3.0.jar"
+hash-format = "sha256"
+hash = "aaefbe6709d36c9600524ee0b356520402fee22c41fa2163967d6e753ab7855b"

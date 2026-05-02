@@ -1,0 +1,8 @@
+name = "CobbleDollars-fabric-2.0.0+Beta-5.1+1.21.1"
+filename = "CobbleDollars-fabric-2.0.0+Beta-5.1+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/CobbleDollars-fabric-2.0.0%2BBeta-5.1%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "a585e8af5f914f13d8ca9ae639ae18fe47a847166760f3b5afa550919c310a7f"

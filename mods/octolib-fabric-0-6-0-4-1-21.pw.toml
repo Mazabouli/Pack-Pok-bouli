@@ -1,0 +1,8 @@
+name = "OctoLib-FABRIC-0.6.0.4+1.21"
+filename = "OctoLib-FABRIC-0.6.0.4+1.21.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/OctoLib-FABRIC-0.6.0.4%2B1.21.jar"
+hash-format = "sha256"
+hash = "067c13ed88fe11e801aaefbbc38aad5b00bda51aafe6b88d3f114eda009a25f5"

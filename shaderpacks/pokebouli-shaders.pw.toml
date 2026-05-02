@@ -1,0 +1,8 @@
+name = "Pokebouli-Shaders"
+filename = "shaderpacks.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/shaderpacks.zip"
+hash-format = "sha256"
+hash = "c2cec9a8ad3f68555cf1179ac63d5e8bbbfc1ec1f64d0567550a9e837dce389c"

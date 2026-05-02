@@ -1,0 +1,8 @@
+name = "biolith-fabric-3.0.10"
+filename = "biolith-fabric-3.0.10.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/biolith-fabric-3.0.10.jar"
+hash-format = "sha256"
+hash = "0612bdb99b9287f708c258bde51c26217736d5f5ce11ff5571be013b5ebc3b7a"

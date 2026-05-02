@@ -1,0 +1,8 @@
+name = "lootbeams-3_6_1-mc1_21-_1"
+filename = "lootbeams-3_6_1-mc1_21-_1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/lootbeams-3_6_1-mc1_21-_1.jar"
+hash-format = "sha256"
+hash = "a4cfb72f5dc9d010ad25881f43e8deabf49ce1e8b80db826c3471c6064ff5372"

@@ -1,0 +1,8 @@
+name = "letsdo-beachparty-fabric-2.1.2"
+filename = "letsdo-beachparty-fabric-2.1.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/letsdo-beachparty-fabric-2.1.2.jar"
+hash-format = "sha256"
+hash = "724ca04b66b1f0c6de8e4290d23f637a79c7320e07239161990458ce06e13955"

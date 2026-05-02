@@ -1,0 +1,8 @@
+name = "Kiwi-1.21-Fabric-15.1.5"
+filename = "Kiwi-1.21-Fabric-15.1.5.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/Kiwi-1.21-Fabric-15.1.5.jar"
+hash-format = "sha256"
+hash = "a676a8a10ff243348a6b3734beee89850cf262bcf4813752e915994adabdc175"

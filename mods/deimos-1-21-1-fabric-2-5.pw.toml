@@ -1,0 +1,8 @@
+name = "deimos-1.21.1-fabric-2.5"
+filename = "deimos-1.21.1-fabric-2.5.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/deimos-1.21.1-fabric-2.5.jar"
+hash-format = "sha256"
+hash = "f3fdd399c553c62d01c90e00ec02480e7faf2e31d851dd16956f2f0389928091"

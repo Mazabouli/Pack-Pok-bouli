@@ -1,0 +1,8 @@
+name = "sodium-fabric-0.6.9+mc1.21.1"
+filename = "sodium-fabric-0.6.9+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/sodium-fabric-0.6.9%2Bmc1.21.1.jar"
+hash-format = "sha256"
+hash = "30ad6e4a2a6bf95cb50a1bcc96f253e24120b6855af9a2938ac9c8c77c345056"

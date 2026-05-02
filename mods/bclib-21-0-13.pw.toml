@@ -1,0 +1,8 @@
+name = "bclib-21.0.13"
+filename = "bclib-21.0.13.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/bclib-21.0.13.jar"
+hash-format = "sha256"
+hash = "7350dc4dc778b294ff08b095cd66d388e9f5b788ac2a7a6338d1ad8575ae015f"

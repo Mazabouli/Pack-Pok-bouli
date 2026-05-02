@@ -1,0 +1,8 @@
+name = "accessories_compat_layer-fabric-0.1.10+1.21.1"
+filename = "accessories_compat_layer-fabric-0.1.10+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/accessories_compat_layer-fabric-0.1.10%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "e547e3060bb6d79a74bef3106e378620aca9ae10dc7d02e5f07d908f4cc22940"

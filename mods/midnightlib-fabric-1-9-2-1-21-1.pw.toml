@@ -1,0 +1,8 @@
+name = "midnightlib-fabric-1.9.2+1.21.1"
+filename = "midnightlib-fabric-1.9.2+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/midnightlib-fabric-1.9.2%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "0082e13cfe887c8ee41dc2e82dfc77538c37afb555dee9b5f002941601b52ece"

@@ -1,0 +1,8 @@
+name = "Terralith_1.21.x_v2.5.8"
+filename = "Terralith_1.21.x_v2.5.8.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/Terralith_1.21.x_v2.5.8.jar"
+hash-format = "sha256"
+hash = "00333a130ac38b7b9ca93700098d5e02e0612bdc2d3522aada2f36e5600621bf"

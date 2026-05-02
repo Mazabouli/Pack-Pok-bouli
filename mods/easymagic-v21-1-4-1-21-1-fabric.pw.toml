@@ -1,0 +1,8 @@
+name = "EasyMagic-v21.1.4-1.21.1-Fabric"
+filename = "EasyMagic-v21.1.4-1.21.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/EasyMagic-v21.1.4-1.21.1-Fabric.jar"
+hash-format = "sha256"
+hash = "14b4837b5ec8cff7e7fdaa8f141498bfae7224a251c987fab77cee7ec55da157"

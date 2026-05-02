@@ -1,0 +1,8 @@
+name = "cobblecuisine-delight-1.1"
+filename = "cobblecuisine-delight-1.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/cobblecuisine-delight-1.1.jar"
+hash-format = "sha256"
+hash = "aa16cf9ec6741e1568c6a6a18c48d65192fd78b73423236393e4abc795c50e25"

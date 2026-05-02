@@ -1,0 +1,8 @@
+name = "spawnnotification-fabric-1.7.3-2.3.0"
+filename = "spawnnotification-fabric-1.7.3-2.3.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/spawnnotification-fabric-1.7.3-2.3.0.jar"
+hash-format = "sha256"
+hash = "e0fa0eee3d1ee6b604a1769e80f5d555bf4effcedcad6413a5febd7d6c0535a1"

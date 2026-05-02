@@ -1,0 +1,8 @@
+name = "YungsBetterDungeons-1.21.1-Fabric-5.1.4"
+filename = "YungsBetterDungeons-1.21.1-Fabric-5.1.4.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/YungsBetterDungeons-1.21.1-Fabric-5.1.4.jar"
+hash-format = "sha256"
+hash = "00a4772904d9d1cf917934536456f9fcd572b356e275be9267d9208a09b76f8f"

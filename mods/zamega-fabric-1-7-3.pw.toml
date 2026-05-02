@@ -1,0 +1,8 @@
+name = "zamega-fabric-1.7.3"
+filename = "zamega-fabric-1.7.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/zamega-fabric-1.7.3.jar"
+hash-format = "sha256"
+hash = "40543066c03cddc977ad5257c33f4c77dadc451bbefaaa7a3ef05e7a4ebe8e60"

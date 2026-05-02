@@ -1,0 +1,8 @@
+name = "structure_layout_optimizer-fabric-1.0.12"
+filename = "structure_layout_optimizer-fabric-1.0.12.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/structure_layout_optimizer-fabric-1.0.12.jar"
+hash-format = "sha256"
+hash = "38c4066ded870f21d60deeb2e05cb30d00d1db0f930c92f8fdd2f85098cb03fe"

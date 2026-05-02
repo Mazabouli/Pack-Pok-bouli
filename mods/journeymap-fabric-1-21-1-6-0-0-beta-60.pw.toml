@@ -1,0 +1,8 @@
+name = "journeymap-fabric-1.21.1-6.0.0-beta.60"
+filename = "journeymap-fabric-1.21.1-6.0.0-beta.60.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/journeymap-fabric-1.21.1-6.0.0-beta.60.jar"
+hash-format = "sha256"
+hash = "f94997a3f953862536e67170e65f4e6fb90a0e0bd3b03b484ce36de9d06abdbb"

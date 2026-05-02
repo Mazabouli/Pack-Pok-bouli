@@ -1,0 +1,8 @@
+name = "Cobbreeding-fabric-2.1.1"
+filename = "Cobbreeding-fabric-2.1.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/Cobbreeding-fabric-2.1.1.jar"
+hash-format = "sha256"
+hash = "83b6b0b6d3a50887e6f6cb46a05d4fb3c711eb683964c3bb03696ba12c48f063"

@@ -1,0 +1,8 @@
+name = "YungsBetterDesertTemples-1.21.1-Fabric-4.1.5"
+filename = "YungsBetterDesertTemples-1.21.1-Fabric-4.1.5.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/YungsBetterDesertTemples-1.21.1-Fabric-4.1.5.jar"
+hash-format = "sha256"
+hash = "dc7b747742d25e7f926e7b02a1c8d1aa800b220debf2e8a8828b2c4213d2078e"

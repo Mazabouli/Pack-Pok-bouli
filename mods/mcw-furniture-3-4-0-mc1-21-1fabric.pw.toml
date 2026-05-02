@@ -1,0 +1,8 @@
+name = "mcw-furniture-3.4.0-mc1.21.1fabric"
+filename = "mcw-furniture-3.4.0-mc1.21.1fabric.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/mcw-furniture-3.4.0-mc1.21.1fabric.jar"
+hash-format = "sha256"
+hash = "a8ef44793334f5aa6f438fead6d8a07f2d7fc375d82dbd16bfa5bcac893d7fb8"

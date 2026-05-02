@@ -1,0 +1,8 @@
+name = "chipped-fabric-1.21.1-4.0.2"
+filename = "chipped-fabric-1.21.1-4.0.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/chipped-fabric-1.21.1-4.0.2.jar"
+hash-format = "sha256"
+hash = "f0d8dc853140e2bf281b4fe7d0484ac2c3581635780a75bcc1f986144e8add74"

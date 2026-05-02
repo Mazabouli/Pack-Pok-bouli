@@ -1,0 +1,8 @@
+name = "cobble-caf-forms-5.0.0"
+filename = "cobble-caf-forms-5.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/v1.0/cobble-caf-forms-5.0.0.jar"
+hash-format = "sha256"
+hash = "86197dd0c761643facb377263b4e5fff265e7c7ada1e0c4e271975a0f4bf72d5"
