@@ -3416,7 +3416,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "6c2e9b2a9975875d3a343a069579579509efee2fe7aaf36caa198de20a979e59"
+hash = "71f72f696a6d83f4185853001f6d640ad7c28924b1ebd6ad2157cfd94fc2bd93"
 
 [[files]]
 file = "resourcepacks/atm-x-msd-v3-5-0.pw.toml"
