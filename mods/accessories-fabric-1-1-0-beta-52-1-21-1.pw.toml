@@ -1,0 +1,8 @@
+name = "accessories-fabric-1.1.0-beta.52+1.21.1"
+filename = "accessories-fabric-1.1.0-beta.52+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/accessories-fabric-1.1.0-beta.52%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "e5556e710ac80da129408cb1df7a7477fbbb6d0e3ee1b48ee1fa5d338d1efa87"

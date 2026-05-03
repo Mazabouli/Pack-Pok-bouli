@@ -1,0 +1,8 @@
+name = "letsdo-herbalbrews-fabric-1.1.2"
+filename = "letsdo-herbalbrews-fabric-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/letsdo-herbalbrews-fabric-1.1.2.jar"
+hash-format = "sha256"
+hash = "4ca69f1fc168e5726c7c0bdebf325f10fdb58c118f3d5f8df708cdcb89a7f39a"

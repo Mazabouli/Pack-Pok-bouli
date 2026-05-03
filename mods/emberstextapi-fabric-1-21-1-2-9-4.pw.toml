@@ -1,0 +1,8 @@
+name = "emberstextapi-fabric-1.21.1-2.9.4"
+filename = "emberstextapi-fabric-1.21.1-2.9.4.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/emberstextapi-fabric-1.21.1-2.9.4.jar"
+hash-format = "sha256"
+hash = "d9f54b83939f58623c0a6db40af0ff83a2d57d6b74c3867c4f4288e55a093b01"

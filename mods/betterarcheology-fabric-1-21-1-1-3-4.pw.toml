@@ -1,0 +1,8 @@
+name = "betterarcheology-fabric-1.21.1-1.3.4"
+filename = "betterarcheology-fabric-1.21.1-1.3.4.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/betterarcheology-fabric-1.21.1-1.3.4.jar"
+hash-format = "sha256"
+hash = "57707f79730b4b73a67adf5c36673a1cd4fd0f75ab50431e407b1f8839793a65"

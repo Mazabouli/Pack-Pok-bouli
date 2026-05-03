@@ -1,0 +1,8 @@
+name = "dungeons-and-taverns-ancient-city-overhaul-v2"
+filename = "dungeons-and-taverns-ancient-city-overhaul-v2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/dungeons-and-taverns-ancient-city-overhaul-v2.jar"
+hash-format = "sha256"
+hash = "2cbabc8feb1500c1a5c7d5ead9bc1a8e4167ec99164902ca4ab11c7d5677a4eb"

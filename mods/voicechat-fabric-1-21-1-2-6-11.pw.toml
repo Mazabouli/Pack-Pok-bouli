@@ -1,0 +1,8 @@
+name = "voicechat-fabric-1.21.1-2.6.11"
+filename = "voicechat-fabric-1.21.1-2.6.11.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/voicechat-fabric-1.21.1-2.6.11.jar"
+hash-format = "sha256"
+hash = "ef0eaf82e9a20215b2115a88cc9889d7269bde95046ae1ea9fda5c77ee97aa54"

@@ -1,0 +1,15 @@
+{
+	"PinningEnabled": true,
+	"ShowAdvancementIDInDebugTooltip": true,
+	"ShowDebugInfo": "DEBUG_TOOLTIPS_ENABLED",
+	"MaxCriterionEntries": 2,
+	"FadeOutBackgroundOnAdvancementHover": true,
+	"SaveLastSelectedTab": true,
+	"PinnedTabs": [
+		"lootr:root",
+		"rctmod:trainers/defeat_any"
+	],
+	"LastSelectedTab": "lootr:root",
+	"SpacingBetweenHorizontalTabs": 4,
+	"SpacingBetweenPinnedTabs": 2
+}

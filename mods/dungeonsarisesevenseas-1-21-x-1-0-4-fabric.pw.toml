@@ -1,0 +1,8 @@
+name = "DungeonsAriseSevenSeas-1.21.x-1.0.4-fabric"
+filename = "DungeonsAriseSevenSeas-1.21.x-1.0.4-fabric.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/DungeonsAriseSevenSeas-1.21.x-1.0.4-fabric.jar"
+hash-format = "sha256"
+hash = "ea7ab0c46a2d7dfd51f8b08e4285583f43d5b818f98ad2ede45b63f159c96f33"

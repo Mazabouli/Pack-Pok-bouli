@@ -1,0 +1,8 @@
+name = "ForgeConfigAPIPort-v21.11.1-mc1.21.11-Fabric"
+filename = "ForgeConfigAPIPort-v21.11.1-mc1.21.11-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/ForgeConfigAPIPort-v21.11.1-mc1.21.11-Fabric.jar"
+hash-format = "sha256"
+hash = "31a0686904fad1cfdeb1d6b011ac1c2280990d6e76ac2416468147e2246b4db1"

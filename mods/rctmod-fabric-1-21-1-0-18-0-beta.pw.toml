@@ -1,0 +1,8 @@
+name = "rctmod-fabric-1.21.1-0.18.0-beta"
+filename = "rctmod-fabric-1.21.1-0.18.0-beta.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/rctmod-fabric-1.21.1-0.18.0-beta.jar"
+hash-format = "sha256"
+hash = "1ca94c2ac3e727053623616983f8e7c0af00b8784b23ce05e9e3353010b6a1dc"

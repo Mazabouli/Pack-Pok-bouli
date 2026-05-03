@@ -1,0 +1,8 @@
+name = "polymer-bundled-0.9.19+1.21.1"
+filename = "polymer-bundled-0.9.19+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/polymer-bundled-0.9.19%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "68a49dcad7939cf53d3fbcd13ee7eba978fb7472c8605ee553eabd9853a0cd21"

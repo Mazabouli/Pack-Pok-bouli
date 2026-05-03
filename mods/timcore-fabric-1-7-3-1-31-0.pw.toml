@@ -1,0 +1,8 @@
+name = "timcore-fabric-1.7.3-1.31.0"
+filename = "timcore-fabric-1.7.3-1.31.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/timcore-fabric-1.7.3-1.31.0.jar"
+hash-format = "sha256"
+hash = "95c14e7ea6f64abd89e145d23f2d2b55fbc9d1c1c93d5233655d79bf9891b02b"

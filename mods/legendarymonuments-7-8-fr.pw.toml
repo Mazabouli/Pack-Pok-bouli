@@ -1,0 +1,8 @@
+name = "LegendaryMonuments-7_8-fr"
+filename = "LegendaryMonuments-7_8-fr.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/LegendaryMonuments-7_8-fr.jar"
+hash-format = "sha256"
+hash = "b2ea6df5794d9390207752ad317bace451c9927a748453baddf7f76b80623dff"

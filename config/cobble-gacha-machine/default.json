@@ -1,0 +1,56 @@
+{
+  "poolSize": 15,
+  "megashowdownItems": true,
+  "capsules": {
+    "normal": {
+      "capsuleWeight": 71.97,
+      "pokemonSpawnChance": 0.15,
+      "pokemonMinLevel": 5,
+      "pokemonMaxLevel": 20,
+      "pokemonPool": [],
+      "poolMinWeight": 1.0,
+      "poolMaxWeight": 100.0,
+      "customList": [
+	  "dusk_ball"
+	  ]
+    },
+    "ultra_rare": {
+      "capsuleWeight": 0.1,
+      "pokemonSpawnChance": 0.5,
+      "pokemonMinLevel": 30,
+      "pokemonMaxLevel": 50,
+      "pokemonPool": [
+        "uncommon"
+      ],
+      "poolMinWeight": 0.001,
+      "poolMaxWeight": 100.0,
+      "customList": []
+    },
+    "legendary": {
+      "capsuleWeight": 0.03,
+      "pokemonSpawnChance": 1.0,
+      "pokemonMinLevel": 45,
+      "pokemonMaxLevel": 75,
+      "pokemonPool": [
+        "rare"
+      ],
+      "poolMinWeight": 0.001,
+      "poolMaxWeight": 100.0,
+      "customList": []
+    },
+    "rare": {
+      "capsuleWeight": 27.9,
+      "pokemonSpawnChance": 0.3,
+      "pokemonMinLevel": 15,
+      "pokemonMaxLevel": 35,
+      "pokemonPool": [
+        "common"
+      ],
+      "poolMinWeight": 0.01,
+      "poolMaxWeight": 10.0,
+      "customList": [
+	  "dusk_ball"
+	  ]
+    }
+  }
+}

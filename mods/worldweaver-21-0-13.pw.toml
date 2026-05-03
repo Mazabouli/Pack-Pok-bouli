@@ -1,0 +1,8 @@
+name = "worldweaver-21.0.13"
+filename = "worldweaver-21.0.13.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/worldweaver-21.0.13.jar"
+hash-format = "sha256"
+hash = "821d74a89e306329ea17e1ab898a26642815cec4388853737c67fd3f6686196c"

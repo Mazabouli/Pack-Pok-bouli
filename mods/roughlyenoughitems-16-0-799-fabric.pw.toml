@@ -1,0 +1,8 @@
+name = "RoughlyEnoughItems-16.0.799-fabric"
+filename = "RoughlyEnoughItems-16.0.799-fabric.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/RoughlyEnoughItems-16.0.799-fabric.jar"
+hash-format = "sha256"
+hash = "209ff74456bb61c825da9aea21f76e66eea7fae60cc636f8ffa466a5835fb010"

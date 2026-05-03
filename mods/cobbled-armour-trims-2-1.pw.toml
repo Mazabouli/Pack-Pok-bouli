@@ -1,0 +1,8 @@
+name = "cobbled-armour-trims-2.1"
+filename = "cobbled-armour-trims-2.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/cobbled-armour-trims-2.1.jar"
+hash-format = "sha256"
+hash = "7669b7ff9b2b9605ddf329800a700ccb9291f906adfb8656e5e04fc5b31ae0f3"

@@ -1,0 +1,8 @@
+name = "Patchouli-1.21.1-92-FABRIC"
+filename = "Patchouli-1.21.1-92-FABRIC.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/Patchouli-1.21.1-92-FABRIC.jar"
+hash-format = "sha256"
+hash = "78cb597a26e07da08acd6ad1c8df729eed15552079efd5dbf60fc153310ed246"

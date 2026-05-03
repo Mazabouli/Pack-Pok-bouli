@@ -1,0 +1,8 @@
+name = "ExtraLib-2.1.4-1.21.1-Fabric"
+filename = "ExtraLib-2.1.4-1.21.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/ExtraLib-2.1.4-1.21.1-Fabric.jar"
+hash-format = "sha256"
+hash = "769118fa4ff6fc9bfab9b925a3ee40dba0676de856fce24a96e5433e257c2ed5"

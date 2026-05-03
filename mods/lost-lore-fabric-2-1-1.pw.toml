@@ -1,0 +1,8 @@
+name = "lost_lore-fabric-2.1.1"
+filename = "lost_lore-fabric-2.1.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/lost_lore-fabric-2.1.1.jar"
+hash-format = "sha256"
+hash = "9c7709076b7b787467bd3522a878dbf7c29431d3f729d44d4cc6aaef2dec7770"

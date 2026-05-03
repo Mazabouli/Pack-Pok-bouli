@@ -1,0 +1,8 @@
+name = "EnchantingInfuser-v21.1.3-1.21.1-Fabric"
+filename = "EnchantingInfuser-v21.1.3-1.21.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/EnchantingInfuser-v21.1.3-1.21.1-Fabric.jar"
+hash-format = "sha256"
+hash = "faefe9cc58509e3c2c5491f6da08a94efe2e8ec5de93d6e6d3b4f6146f7a9ead"

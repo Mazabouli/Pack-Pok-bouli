@@ -1,0 +1,8 @@
+name = "letsdo-brewery-fabric-2.1.5"
+filename = "letsdo-brewery-fabric-2.1.5.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/letsdo-brewery-fabric-2.1.5.jar"
+hash-format = "sha256"
+hash = "616c752c7b0d050f8a61ab4fe1d5d42f2bae8893c59f69a9f5847c060080e127"

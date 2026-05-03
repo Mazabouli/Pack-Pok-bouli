@@ -1,0 +1,8 @@
+name = "Wallpapers.Plus.2.0"
+filename = "Wallpapers.Plus.2.0.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/resourcepacks/Wallpapers.Plus.2.0.zip"
+hash-format = "sha256"
+hash = "a6db571cf71998871b28c78860e41cc7025a81d32945a63de13f25f8cfc13260"

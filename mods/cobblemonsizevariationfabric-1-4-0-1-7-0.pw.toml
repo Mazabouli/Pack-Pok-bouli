@@ -1,0 +1,8 @@
+name = "CobblemonSizeVariationFabric-1.4.0+1.7.0"
+filename = "CobblemonSizeVariationFabric-1.4.0+1.7.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/CobblemonSizeVariationFabric-1.4.0%2B1.7.0.jar"
+hash-format = "sha256"
+hash = "c02964bcb0863e6054ba0ef4e1581506ab65baa5ba84a9545bdaaa691b821b25"

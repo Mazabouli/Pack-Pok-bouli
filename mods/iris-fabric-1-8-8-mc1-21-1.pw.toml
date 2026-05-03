@@ -1,0 +1,8 @@
+name = "iris-fabric-1.8.8+mc1.21.1"
+filename = "iris-fabric-1.8.8+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/iris-fabric-1.8.8%2Bmc1.21.1.jar"
+hash-format = "sha256"
+hash = "38c8332a0ab5636af3464b4d6e7beee2647745bc048ff827a3da9cd2a185763a"

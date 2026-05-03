@@ -1,0 +1,8 @@
+name = "geckolib-fabric-1.21.1-4.7.7"
+filename = "geckolib-fabric-1.21.1-4.7.7.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/geckolib-fabric-1.21.1-4.7.7.jar"
+hash-format = "sha256"
+hash = "1be401deb2230e2871cdfb7ed7aa5d1a187fb878aaade2e3b0383629e9dad21f"

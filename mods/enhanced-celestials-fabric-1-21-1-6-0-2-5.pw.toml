@@ -1,0 +1,8 @@
+name = "Enhanced-Celestials-Fabric-1.21.1-6.0.2.5"
+filename = "Enhanced-Celestials-Fabric-1.21.1-6.0.2.5.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/Enhanced-Celestials-Fabric-1.21.1-6.0.2.5.jar"
+hash-format = "sha256"
+hash = "c6782e5132f2a7631a454ed71c52431b1ba878a758dd78eec5eb4659b1b3d91e"

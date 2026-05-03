@@ -1,0 +1,8 @@
+name = "EasyAnvils-v21.1.0-1.21.1-Fabric"
+filename = "EasyAnvils-v21.1.0-1.21.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/EasyAnvils-v21.1.0-1.21.1-Fabric.jar"
+hash-format = "sha256"
+hash = "14e40cafffb4bbe878a3faa59022d0fd2658b5337656cb96f4925d42d10f2f2b"

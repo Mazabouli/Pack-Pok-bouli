@@ -1,0 +1,8 @@
+name = "infinite-music-0.4.6"
+filename = "infinite-music-0.4.6.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/infinite-music-0.4.6.jar"
+hash-format = "sha256"
+hash = "f90123fa679e170163f976819c851fc4bd6840d19cf95dde3ff8fe3682eed343"

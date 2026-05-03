@@ -1,0 +1,8 @@
+name = "CCC_2.0.1"
+filename = "CCC_2.0.1.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/resourcepacks/CCC_2.0.1.zip"
+hash-format = "sha256"
+hash = "685a4654e5ac78d25df187aa061969dbb809674e82e99262cfabbec16c0b0a63"

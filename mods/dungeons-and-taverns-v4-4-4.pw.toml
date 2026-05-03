@@ -1,0 +1,8 @@
+name = "dungeons-and-taverns-v4.4.4"
+filename = "dungeons-and-taverns-v4.4.4.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/dungeons-and-taverns-v4.4.4.jar"
+hash-format = "sha256"
+hash = "11f9138aacea0867863440bf8f38e8259a3965f454dc36245768fe06e83e9134"

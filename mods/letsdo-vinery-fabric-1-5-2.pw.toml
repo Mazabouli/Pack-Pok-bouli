@@ -1,0 +1,8 @@
+name = "letsdo-vinery-fabric-1.5.2"
+filename = "letsdo-vinery-fabric-1.5.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/letsdo-vinery-fabric-1.5.2.jar"
+hash-format = "sha256"
+hash = "f5a0c48c98575ca2b47d95f33afc6643ebebe2da8565263118b3ec73b28d1e95"

@@ -1,0 +1,8 @@
+name = "Structory_Towers_1.21.x_v1.0.15"
+filename = "Structory_Towers_1.21.x_v1.0.15.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/Structory_Towers_1.21.x_v1.0.15.jar"
+hash-format = "sha256"
+hash = "611283dfc6c882c1e94bdf8572ada7a28cebc23c334638db6efefb515f9c3a4b"

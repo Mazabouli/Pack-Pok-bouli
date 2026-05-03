@@ -1,0 +1,8 @@
+name = "cristellib-fabric-1.21.1-3.0.2"
+filename = "cristellib-fabric-1.21.1-3.0.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/cristellib-fabric-1.21.1-3.0.2.jar"
+hash-format = "sha256"
+hash = "b26d876dc8959c7f8722505f54ceb9dab68c686449afe40e35af03192b459a05"

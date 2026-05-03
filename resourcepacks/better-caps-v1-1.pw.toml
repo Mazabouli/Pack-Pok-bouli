@@ -1,0 +1,8 @@
+name = "Better.Caps.v1.1"
+filename = "Better.Caps.v1.1.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/resourcepacks/Better.Caps.v1.1.zip"
+hash-format = "sha256"
+hash = "6969d43d40c69972c7dcaf1e735c412e98e5cfa488882565cdda80e3576e41eb"

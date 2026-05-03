@@ -1,0 +1,8 @@
+name = "cobblecuisine-2.0.1-1.7-rc1"
+filename = "cobblecuisine-2.0.1-1.7-rc1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/cobblecuisine-2.0.1-1.7-rc1.jar"
+hash-format = "sha256"
+hash = "86bd8c5a85743b2420c279ee0e6fdc834ba45aa7def256706155c283dbb0fa47"

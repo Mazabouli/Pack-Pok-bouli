@@ -1,0 +1,8 @@
+name = "morediscs-1.21.1-fabric-35"
+filename = "morediscs-1.21.1-fabric-35.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/morediscs-1.21.1-fabric-35.jar"
+hash-format = "sha256"
+hash = "f729885453f89ee406ad7b334561113538ecc9b8144c65643b2e7ae6fdb6787c"

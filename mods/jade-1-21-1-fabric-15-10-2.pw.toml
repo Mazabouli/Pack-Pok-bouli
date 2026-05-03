@@ -1,0 +1,8 @@
+name = "Jade-1.21.1-Fabric-15.10.2"
+filename = "Jade-1.21.1-Fabric-15.10.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/Jade-1.21.1-Fabric-15.10.2.jar"
+hash-format = "sha256"
+hash = "f40ae83b280ea0bf77efee5c4ea075b80a48e9424cee69fb025e5236262d84db"

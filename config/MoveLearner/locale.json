@@ -1,0 +1,10 @@
+{
+  "reload": "&e(!) Configs reloaded.",
+  "openLearn": "&e(!) Learn menu opened %player%.",
+  "buyMoveItem": "&e(!) You buy %move% to %pokemon% for x%amount% rare candy.",
+  "buyMoveFree": "&e(!) You buy %move% to %pokemon% for free.",
+  "notItems": "&c(!) You need x%amount% candy to move.",
+  "notPokemon": "&c(!) The pokemon you selected is not on your team.",
+  "alreadyMove": "&c(!) The pokemon %pokemon% already %move% move.",
+  "notValidItem": "&c(!) The item specified in the configuration is incorrect or does not exist, please inform the administration about it."
+}

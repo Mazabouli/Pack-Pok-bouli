@@ -1,0 +1,172 @@
+{
+  "defaultShop": [
+    {
+      "Cobble Ball": [
+        {
+          "item": "cobblemon:poke_ball",
+          "price": 400
+        },
+        {
+          "item": "cobblemon:citrine_ball",
+          "price": 400
+        },
+        {
+          "item": "cobblemon:verdant_ball",
+          "price": 400
+        },
+        {
+          "item": "cobblemon:azure_ball",
+          "price": 400
+        },
+        {
+          "item": "cobblemon:roseate_ball",
+          "price": 400
+        },
+        {
+          "item": "cobblemon:slate_ball",
+          "price": 400
+        },
+        {
+          "item": "cobblemon:premier_ball",
+          "price": 2500
+        },
+        {
+          "item": "cobblemon:great_ball",
+          "price": 750
+        },
+        {
+          "item": "cobblemon:ultra_ball",
+          "price": 1000
+        },
+        {
+          "item": "cobblemon:lure_ball",
+          "price": 1500
+        },
+        {
+          "item": "cobblemon:friend_ball",
+          "price": 1500
+        },
+        {
+          "item": "cobblemon:quick_ball",
+          "price": 2000
+        },
+        {
+          "item": "cobblemon:luxury_ball",
+          "price": 4000
+        }
+      ]
+    },
+    {
+      "Ancient Ball": [
+        {
+          "item": "cobblemon:ancient_poke_ball",
+          "price": 300
+        },
+        {
+          "item": "cobblemon:ancient_citrine_ball",
+          "price": 300
+        },
+        {
+          "item": "cobblemon:ancient_verdant_ball",
+          "price": 300
+        },
+        {
+          "item": "cobblemon:ancient_azure_ball",
+          "price": 300
+        },
+        {
+          "item": "cobblemon:ancient_roseate_ball",
+          "price": 300
+        },
+        {
+          "item": "cobblemon:ancient_slate_ball",
+          "price": 300
+        },
+        {
+          "item": "cobblemon:ancient_ivory_ball",
+          "price": 300
+        },
+        {
+          "item": "cobblemon:ancient_great_ball",
+          "price": 700
+        },
+        {
+          "item": "cobblemon:ancient_ultra_ball",
+          "price": 1000
+        }
+      ]
+    },
+    {
+      "Potions": [
+        {
+          "item": "cobblemon:potion",
+          "price": 600
+        },
+        {
+          "item": "cobblemon:super_potion",
+          "price": 900
+        },
+        {
+          "item": "cobblemon:hyper_potion",
+          "price": 1600
+        },
+        {
+          "item": "cobblemon:max_potion",
+          "price": 3500
+        },
+        {
+          "item": "cobblemon:full_heal",
+          "price": 1000
+        },
+        {
+          "item": "cobblemon:full_restore",
+          "price": 4000
+        },
+        {
+          "item": "cobblemon:revive",
+          "price": 3000
+        },
+        {
+          "item": "cobblemon:max_revive",
+          "price": 7500
+        }
+      ]
+    },
+    {
+      "Poké Items": [
+        {
+          "item": "cobblemon:galarica_nuts",
+          "price": 3500
+        },
+        {
+          "item": "cobblemon:hp_up",
+          "price": 12500
+        },
+        {
+          "item": "cobblemon:protein",
+          "price": 12500
+        },
+        {
+          "item": "cobblemon:iron",
+          "price": 12500
+        },
+        {
+          "item": "cobblemon:calcium",
+          "price": 12500
+        },
+        {
+          "item": "cobblemon:zinc",
+          "price": 12500
+        },
+        {
+          "item": "cobblemon:carbos",
+          "price": 12500
+        },
+        {
+          "item": "cobblemon:pp_up",
+          "price": 12500
+        }
+      ]
+    }
+  ]
+}

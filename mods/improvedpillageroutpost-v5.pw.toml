@@ -1,0 +1,8 @@
+name = "ImprovedPillagerOutpost-v5"
+filename = "ImprovedPillagerOutpost-v5.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/ImprovedPillagerOutpost-v5.jar"
+hash-format = "sha256"
+hash = "a7709c70ed694294d892938bbf2bf19290351bc2c7a0a28f9d83da157793679c"

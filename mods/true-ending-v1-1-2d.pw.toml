@@ -1,0 +1,8 @@
+name = "true-ending-v1.1.2d"
+filename = "true-ending-v1.1.2d.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/true-ending-v1.1.2d.jar"
+hash-format = "sha256"
+hash = "e69c4da0012ed044ff0fe11697a3c42a42d19e2e0d8e73378ae703d98761c856"

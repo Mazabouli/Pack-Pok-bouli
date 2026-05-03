@@ -1,0 +1,8 @@
+name = "CobbleverseBadges-1.3"
+filename = "CobbleverseBadges-1.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/CobbleverseBadges-1.3.jar"
+hash-format = "sha256"
+hash = "f02502dc1e537bb8f1919c18f1a38758effb0ad457920c175ce3be5148e1bfb8"

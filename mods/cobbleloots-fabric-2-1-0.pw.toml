@@ -1,0 +1,8 @@
+name = "cobbleloots-fabric-2.1.0"
+filename = "cobbleloots-fabric-2.1.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/cobbleloots-fabric-2.1.0.jar"
+hash-format = "sha256"
+hash = "2811e0fbbac45177603a8c554532d649a129344ae5835f669ceb6ddc18ca26c1"

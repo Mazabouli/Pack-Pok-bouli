@@ -1,0 +1,8 @@
+name = "fabric-language-kotlin-1.13.7+kotlin.2.2.21"
+filename = "fabric-language-kotlin-1.13.7+kotlin.2.2.21.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/fabric-language-kotlin-1.13.7%2Bkotlin.2.2.21.jar"
+hash-format = "sha256"
+hash = "77951963edd5d7d37ee4f174e37d46a871e45b973426f3b49d6725c819b4b8f2"

@@ -1,0 +1,8 @@
+name = "ImmediatelyFast-Fabric-1.6.9+1.21.1"
+filename = "ImmediatelyFast-Fabric-1.6.9+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/ImmediatelyFast-Fabric-1.6.9%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "edd3640ad522f44920cba831eb9735541a081f8bbf9e11a282c12c960f1f0727"

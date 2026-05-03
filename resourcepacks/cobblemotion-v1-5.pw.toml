@@ -1,0 +1,8 @@
+name = "CobbleMotion_v1.5"
+filename = "CobbleMotion_v1.5.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/resourcepacks/CobbleMotion_v1.5.zip"
+hash-format = "sha256"
+hash = "f6ddffcd3e2135e16f7a482247708e232cf1f97026b2213da0e3ee5b1de26a2a"

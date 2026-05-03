@@ -1,0 +1,8 @@
+name = "mcw-mcwpaths-1.1.1-mc1.21.1fabric"
+filename = "mcw-mcwpaths-1.1.1-mc1.21.1fabric.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/mcw-mcwpaths-1.1.1-mc1.21.1fabric.jar"
+hash-format = "sha256"
+hash = "31c188d43090df719713dbf23837ca0654c1d86a859cad6fd6320420ce971900"

@@ -1,0 +1,133 @@
+{
+  "bank": [
+    {
+      "item": "minecraft:emerald",
+      "price": 750
+    },
+    {
+      "item": "minecraft:diamond",
+      "price": 1000
+    },
+    {
+      "item": "minecraft:gold_ingot",
+      "price": 40
+    },
+    {
+      "item": "minecraft:iron_ingot",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:relic_coin",
+      "price": 75
+    },
+    {
+      "item": "cobblemon:relic_coin_pouch",
+      "price": 675
+    },
+    {
+      "item": "cobblemon:relic_coin_sack",
+      "price": 6000
+    },
+    {
+      "item": "betternether:cincinnasite_ingot",
+      "price": 1500
+    },
+    {
+      "item": "betterend:aeternium_ingot",
+      "price": 94000
+    },
+    {
+      "item": "betterend:thallasium_ingot",
+      "price": 1900
+    },
+    {
+      "item": "betterend:terminite_ingot",
+      "price": 67500
+    },
+    {
+      "item": "minecraft:netherite_ingot",
+      "price": 75000
+    },
+    {
+      "item": "minecraft:copper_ingot",
+      "price": 10
+    },
+    {
+      "item": "minecraft:echo_shard",
+      "price": 1900
+    },
+    {
+      "item": "deeperdarker:resonarium",
+      "price": 650
+    },
+    {
+      "item": "aether:enchanted_gravitite",
+      "price": 6500
+    },
+    {
+      "item": "aether:zanite_gemstone",
+      "price": 650
+    },
+    {
+      "item": "betternether:nether_ruby",
+      "price": 950
+    },
+    {
+      "item": "minecraft:amethyst_shard",
+      "price": 180
+    },
+    {
+      "item": "jewelry:citrine",
+      "price": 750
+    },
+    {
+      "item": "jewelry:ruby",
+      "price": 750
+    },
+    {
+      "item": "jewelry:topaz",
+      "price": 750
+    },
+    {
+      "item": "jewelry:jade",
+      "price": 750
+    },
+    {
+      "item": "jewelry:sapphire",
+      "price": 750
+    },
+    {
+      "item": "jewelry:tanzanite",
+      "price": 750
+    },
+    {
+      "item": "spectrum:citrine_shard",
+      "price": 375
+    },
+    {
+      "item": "betterend:amber_gem",
+      "price": 180
+    },
+	{
+      "item": "minecraft:quartz",
+      "price": 190
+    },
+    {
+      "item": "minecraft:lapis_lazuli",
+      "price": 115
+    },
+    {
+      "item": "minecraft:coal",
+      "price": 75
+    },
+    {
+      "item": "minecraft:charcoal",
+      "price": 40
+    },
+    {
+      "item": "aether:ambrosium_shard",
+      "price": 180
+    }
+  ]
+}
+

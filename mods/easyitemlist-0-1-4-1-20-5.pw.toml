@@ -1,0 +1,8 @@
+name = "EasyItemList-0.1.4-1.20.5"
+filename = "EasyItemList-0.1.4-1.20.5.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/EasyItemList-0.1.4-1.20.5.jar"
+hash-format = "sha256"
+hash = "b6be36089577a49684a6b24f95cac8328f7e856ad98d7899e1a29277fd9e6c73"

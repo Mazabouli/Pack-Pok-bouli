@@ -1,0 +1,8 @@
+name = "letsdo-bakery-fabric-2.1.2"
+filename = "letsdo-bakery-fabric-2.1.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/letsdo-bakery-fabric-2.1.2.jar"
+hash-format = "sha256"
+hash = "d567a174a74ed520b4d96f4c1722af0bbbfa5fd64862c06552437f52392c859b"

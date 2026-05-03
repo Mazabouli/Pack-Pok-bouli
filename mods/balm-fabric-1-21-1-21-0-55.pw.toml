@@ -1,0 +1,8 @@
+name = "balm-fabric-1.21.1-21.0.55"
+filename = "balm-fabric-1.21.1-21.0.55.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/balm-fabric-1.21.1-21.0.55.jar"
+hash-format = "sha256"
+hash = "58f91b458da85ee973c6cc63c618b4856144cf726d662cf605b9aafb480f127d"

@@ -1,0 +1,8 @@
+name = "entityculling-fabric-1.9.3-mc1.21.1"
+filename = "entityculling-fabric-1.9.3-mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/entityculling-fabric-1.9.3-mc1.21.1.jar"
+hash-format = "sha256"
+hash = "dcf72956dd2644f268689744eee7784d98ed55aac5b94793444bdd1909a8fd9e"

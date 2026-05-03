@@ -1,0 +1,8 @@
+name = "cobblenav-fabric-2.3.3"
+filename = "cobblenav-fabric-2.3.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/cobblenav-fabric-2.3.3.jar"
+hash-format = "sha256"
+hash = "69f0bb5dc57003e62142cef3479e52060f22bb9966c0e2ad49ce873c011ef8b6"

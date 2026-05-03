@@ -1,0 +1,8 @@
+name = "CobblemonMoveDex-1.2"
+filename = "CobblemonMoveDex-1.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/CobblemonMoveDex-1.2.jar"
+hash-format = "sha256"
+hash = "17861fb90a5d4224e922929a33cb4f0ddb355e62d97ccb6c72b706b0a8f0b737"

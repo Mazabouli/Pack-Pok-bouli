@@ -1,0 +1,8 @@
+name = "snowyspirit-1.21.1-3.0.18-fabric"
+filename = "snowyspirit-1.21.1-3.0.18-fabric.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/snowyspirit-1.21.1-3.0.18-fabric.jar"
+hash-format = "sha256"
+hash = "da4214a559693946e8aac708ca48b3ecd2cca922d4b4e856f8a901faeef135be"

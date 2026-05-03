@@ -1,0 +1,8 @@
+name = "SimpleTMs-fabric-2.3.3"
+filename = "SimpleTMs-fabric-2.3.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/SimpleTMs-fabric-2.3.3.jar"
+hash-format = "sha256"
+hash = "1fcbe9680e433a5f405b479e9e19f8a4bc60a51cfc6d59c8ea698ed4c142c267"

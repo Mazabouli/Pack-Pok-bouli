@@ -1,0 +1,8 @@
+name = "YungsBridges-1.21.1-Fabric-5.1.1"
+filename = "YungsBridges-1.21.1-Fabric-5.1.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/YungsBridges-1.21.1-Fabric-5.1.1.jar"
+hash-format = "sha256"
+hash = "37cc120aceb6263afbcedaeee1c9fe9770c7d5dabd938d00293017e781051b45"

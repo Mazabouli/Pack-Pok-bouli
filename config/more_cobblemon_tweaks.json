@@ -1,0 +1,24 @@
+{
+  "pc_wallpapers": {
+    "91.197.6.199:25586": {
+      "1": "more_cobblemon_tweaks:textures/gui/pc/wallpapers/default_wallpaper.png",
+      "0": "more_cobblemon_tweaks:textures/gui/pc/wallpapers/default_wallpaper.png",
+      "29": "more_cobblemon_tweaks:textures/gui/pc/wallpapers/default_wallpaper.png"
+    }
+  },
+  "pc_box_names": {
+    "91.197.6.199:25586": {
+      "27": "Légendaire 2",
+      "26": "Zarbi",
+      "19": "Pâturage 1",
+      "20": "Pâturage 2",
+      "24": "Aventure",
+      "21": "REPRODUCTION",
+      "28": "Légendaire 1",
+      "16": "Shiny 1",
+      "17": "Shiny 2",
+      "18": "Shiny 3",
+      "29": "Légendaire 2"
+    }
+  }
+}

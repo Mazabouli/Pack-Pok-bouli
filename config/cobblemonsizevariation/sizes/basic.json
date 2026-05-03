@@ -1,0 +1,43 @@
+{
+  "name": "basic",
+  "minSizeModifier": "0.5",
+  "maxSizeModifier": "1.8",
+  "sizes": [
+    {
+      "name": "Minuscule",
+      "min": "0.5",
+      "max": "0.7",
+      "color": "#1b88cc"
+    },
+    {
+      "name": "Petit",
+      "min": "0.71",
+      "max": "0.9",
+      "color": "#1bcc9a"
+    },
+    {
+      "name": "Moyen",
+      "min": "0.91",
+      "max": "1.2",
+      "color": "#ffffff"
+    },
+    {
+      "name": "Grand",
+      "min": "1.21",
+      "max": "1.5",
+      "color": "#e6ff2b"
+    },
+    {
+      "name": "Énorme",
+      "min": "1.51",
+      "max": "1.64",
+      "color": "#f07426"
+    },
+    {
+      "name": "Gigantesque",
+      "min": "1.65",
+      "max": "1.8",
+      "color": "#f21800"
+    }
+  ]
+}

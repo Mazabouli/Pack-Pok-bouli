@@ -1,0 +1,8 @@
+name = "GymBadges-1.1"
+filename = "GymBadges-1.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/GymBadges-1.1.jar"
+hash-format = "sha256"
+hash = "500835397b9bc71c0f2efdc3c0584127e220e6df79b2f1cbc84033365d36fc79"

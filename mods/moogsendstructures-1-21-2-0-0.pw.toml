@@ -1,0 +1,8 @@
+name = "MoogsEndStructures-1.21-2.0.0"
+filename = "MoogsEndStructures-1.21-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/MoogsEndStructures-1.21-2.0.0.jar"
+hash-format = "sha256"
+hash = "5201904062fa5f164cab51360b03ed40e80b18a68acfd5949ec9c24510ccc342"

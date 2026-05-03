@@ -1,0 +1,8 @@
+name = "berrypouch-fabric-1.21.1-0.4.3-beta"
+filename = "berrypouch-fabric-1.21.1-0.4.3-beta.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/berrypouch-fabric-1.21.1-0.4.3-beta.jar"
+hash-format = "sha256"
+hash = "82dcbaf64e0424645aadf2c969cb5762cee10b4bb98652fee71b7baa9f51f952"

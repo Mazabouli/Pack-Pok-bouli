@@ -1,0 +1,8 @@
+name = "cobblemonarmory-1.4.4-fabric-1.21.1"
+filename = "cobblemonarmory-1.4.4-fabric-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/cobblemonarmory-1.4.4-fabric-1.21.1.jar"
+hash-format = "sha256"
+hash = "52eb464ed51f82656388481d41e324dfb40d283c3b8778960b30efa888f5ae95"

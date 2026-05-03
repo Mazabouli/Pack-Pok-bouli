@@ -1,0 +1,8 @@
+name = "CobbleTCG_ResourcePack3"
+filename = "CobbleTCG_ResourcePack3.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/resourcepacks/CobbleTCG_ResourcePack3.zip"
+hash-format = "sha256"
+hash = "d88bf101a851b1243880b7777ff4b14cc0120fde8544f5470eddb7a107e609f6"

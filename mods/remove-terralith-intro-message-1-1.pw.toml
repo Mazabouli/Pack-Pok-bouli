@@ -1,0 +1,8 @@
+name = "remove-terralith-intro-message-1.1"
+filename = "remove-terralith-intro-message-1.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/remove-terralith-intro-message-1.1.jar"
+hash-format = "sha256"
+hash = "15412603b8090e1ca79a2b5e52b03d2f441a6e65d5729b525f991a1d2acd5498"

@@ -1,0 +1,14 @@
+{
+  "itemPriceMove": "cobblemon:rare_candy",
+  "itemStrongTags": true,
+  "hideAlreadyMove": false,
+  "legacyMove": true,
+  "specialMove": true,
+  "eggMove": true,
+  "levelMovePrice": 16,
+  "tmMovePrice": 16,
+  "legacyMovePrice": 32,
+  "tutorMovePrice": 16,
+  "specialMovePrice": 16,
+  "eggMovePrice": 32
+}

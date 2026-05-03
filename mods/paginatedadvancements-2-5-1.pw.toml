@@ -1,0 +1,8 @@
+name = "paginatedadvancements-2.5.1"
+filename = "paginatedadvancements-2.5.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/paginatedadvancements-2.5.1.jar"
+hash-format = "sha256"
+hash = "fa0a97d1f98091979e7ed563cddc8463d2949bd975058b5c2b3a3c51200d4684"

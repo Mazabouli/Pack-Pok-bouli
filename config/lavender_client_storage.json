@@ -1,0 +1,84 @@
+{
+  "bookmarks": {},
+  "opened_books": {
+    "8b06aa19-c40b-4533-9f09-3c3f9bf960de": [
+      "knowlogy:knowlogy_book"
+    ],
+    "c061858f-8b21-45d8-9707-9ca00be3283f": [
+      "knowlogy:knowlogy_book"
+    ],
+    "22faf614-c98a-4b48-95aa-abb51fa4e57e": [
+      "knowlogy:knowlogy_book"
+    ]
+  },
+  "viewed_entries": {
+    "8b06aa19-c40b-4533-9f09-3c3f9bf960de": {
+      "knowlogy:knowlogy_book": [
+        "cobblemon:ancient_azure_ball",
+        "minecraft:crafting_table",
+        "cobblemon:restoration_tank",
+        "cobblemon:fossil_analyzer",
+        "cobblemon:exp_share",
+        "cobblemon:healing_machine",
+        "cobblemon:fast_ball",
+        "cobblemon:azure_ball",
+        "cobblemon:trading_pokemon",
+        "cobblemon:display_case",
+        "cobblemon:evolution",
+        "cobblemon:monitor",
+        "cobblemon:shiny_pokemon",
+        "cobblemon:shoulder_mount",
+        "cobblemon:pokedex",
+        "cobblemon:love_ball",
+        "cobblemon:ancient_jet_ball",
+        "cobblemon:expert_belt",
+        "cobblemon:master_ball",
+        "cobblemon:battling",
+        "cobblemon:ancient_leaden_ball",
+        "cobblemon:link_cable",
+        "cobblemon:dive_ball",
+        "cobblemon:pasture",
+        "cobblemon:pokemon_spawning",
+        "cobblemon:ancient_citrine_ball",
+        "cobblemon:unique_forms",
+        "cobblemon:pokemon_drops",
+        "cobblemon:pc",
+        "cobblemon:ancient_wing_ball",
+        "cobblemon:lure_ball",
+        "cobblemon:catching",
+        "cobblemon:nurse_villager",
+        "cobbleride:riding_pokemon"
+      ]
+    },
+    "c061858f-8b21-45d8-9707-9ca00be3283f": {
+      "knowlogy:knowlogy_book": [
+        "minecraft:wolf_armor",
+        "minecraft:weapon",
+        "minecraft:overworld",
+        "minecraft:wind_charge",
+        "minecraft:mace",
+        "minecraft:goat",
+        "minecraft:crafting_table",
+        "cobblemon:vivichoke_dip",
+        "minecraft:ominous_bottle",
+        "cobblemon:roasted_leek",
+        "cobblemon:leek_and_potato_stew",
+        "minecraft:honey_bottle",
+        "cobblemon:braised_vivichoke",
+        "cobblemon:medicinal_leek",
+        "minecraft:farmer",
+        "cobblemon:pokeball",
+        "cobblemon:poke_ball",
+        "cobblemon:quick_ball",
+        "cobblemon:premier_ball",
+        "cobblemon:master_ball",
+        "cobblemon:beast_ball",
+        "cobblemon:dream_ball",
+        "cobblemon:ancient_gigaton_ball",
+        "cobblemon:fast_ball",
+        "cobblemon:pokedex",
+        "knowlogy:beginners_guide"
+      ]
+    }
+  }
+}

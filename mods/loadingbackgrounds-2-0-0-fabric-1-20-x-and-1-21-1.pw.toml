@@ -1,0 +1,8 @@
+name = "loadingbackgrounds-2.0.0-fabric-1.20.X_and_1.21.1"
+filename = "loadingbackgrounds-2.0.0-fabric-1.20.X_and_1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/loadingbackgrounds-2.0.0-fabric-1.20.X_and_1.21.1.jar"
+hash-format = "sha256"
+hash = "7627f27ab090fba92d7152cc6a59df440af6adcde082416992836a04e2894501"

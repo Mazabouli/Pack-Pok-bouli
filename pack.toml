@@ -1,0 +1,13 @@
+name = "Pack Pokebouli"
+author = "Mazabouli"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "54cbaaff5fb25a2d96727c1ae1a5df4a1d4a0dcf832e43c1244650c7e2834228"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.21.1"

@@ -1,0 +1,8 @@
+name = "FarmersDelight-1.21.1-3.2.2+refabricated"
+filename = "FarmersDelight-1.21.1-3.2.2+refabricated.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/FarmersDelight-1.21.1-3.2.2%2Brefabricated.jar"
+hash-format = "sha256"
+hash = "58ac7bd49192da0685bc4e1638a62091bec936f5616e8889df3e81653167ee5d"

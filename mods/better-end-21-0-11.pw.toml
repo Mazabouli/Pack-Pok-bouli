@@ -1,0 +1,8 @@
+name = "better-end-21.0.11"
+filename = "better-end-21.0.11.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/better-end-21.0.11.jar"
+hash-format = "sha256"
+hash = "1f91308f89277194cb683264239223e294572cf88c9748f677426201d7d5f241"

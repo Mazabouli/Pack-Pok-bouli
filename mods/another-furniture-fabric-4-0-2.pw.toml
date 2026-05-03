@@ -1,0 +1,8 @@
+name = "another_furniture-fabric-4.0.2"
+filename = "another_furniture-fabric-4.0.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/another_furniture-fabric-4.0.2.jar"
+hash-format = "sha256"
+hash = "7a6423bfa3ee74d08410d105240e9bb9fa66150f624876f074d6c5aa17379a03"

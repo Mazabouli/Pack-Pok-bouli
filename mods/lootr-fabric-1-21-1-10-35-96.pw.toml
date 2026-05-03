@@ -1,0 +1,8 @@
+name = "lootr-fabric-1.21-1.10.35.96"
+filename = "lootr-fabric-1.21-1.10.35.96.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/lootr-fabric-1.21-1.10.35.96.jar"
+hash-format = "sha256"
+hash = "d8b472d0aadc7245432af3f8fefd10daba17927e9031b789c917c7c411531f67"

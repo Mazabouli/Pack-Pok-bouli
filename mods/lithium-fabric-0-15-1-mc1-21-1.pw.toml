@@ -1,0 +1,8 @@
+name = "lithium-fabric-0.15.1+mc1.21.1"
+filename = "lithium-fabric-0.15.1+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/lithium-fabric-0.15.1%2Bmc1.21.1.jar"
+hash-format = "sha256"
+hash = "aaa15b94d06486547a36c9c7cb4de0a4ab75dc40e0d9efc33f589251ca8260e0"

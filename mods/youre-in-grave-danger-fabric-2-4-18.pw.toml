@@ -1,0 +1,8 @@
+name = "youre-in-grave-danger-fabric-2.4.18"
+filename = "youre-in-grave-danger-fabric-2.4.18.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/youre-in-grave-danger-fabric-2.4.18.jar"
+hash-format = "sha256"
+hash = "08d3875643004fc89564d716f96a453b5d249992bb8259cfbd282a2ae70cceb3"

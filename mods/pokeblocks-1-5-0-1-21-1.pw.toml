@@ -1,0 +1,8 @@
+name = "pokeblocks-1.5.0-1.21.1"
+filename = "pokeblocks-1.5.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/pokeblocks-1.5.0-1.21.1.jar"
+hash-format = "sha256"
+hash = "73a39584ac480b49b8e7878e83ba7752939f54bfe9f6f791fbe22a9667871f52"

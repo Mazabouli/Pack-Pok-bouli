@@ -1,0 +1,8 @@
+name = "exposure-fabric-1.21.1-1.9.13"
+filename = "exposure-fabric-1.21.1-1.9.13.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/exposure-fabric-1.21.1-1.9.13.jar"
+hash-format = "sha256"
+hash = "5cdf28980ccd1cfa8326c86415b99634229664a44347047d6f547067e1cadd5a"

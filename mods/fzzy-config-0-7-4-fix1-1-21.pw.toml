@@ -1,0 +1,8 @@
+name = "fzzy_config-0.7.4-fix1+1.21"
+filename = "fzzy_config-0.7.4-fix1+1.21.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/fzzy_config-0.7.4-fix1%2B1.21.jar"
+hash-format = "sha256"
+hash = "a0b97a14507f3b8852fad28584a8836949765d64fb6caeb6fbb4257d0d58d173"

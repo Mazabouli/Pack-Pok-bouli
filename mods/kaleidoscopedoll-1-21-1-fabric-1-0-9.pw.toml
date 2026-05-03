@@ -1,0 +1,8 @@
+name = "kaleidoscopedoll-1.21.1-fabric-1.0.9"
+filename = "kaleidoscopedoll-1.21.1-fabric-1.0.9.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/kaleidoscopedoll-1.21.1-fabric-1.0.9.jar"
+hash-format = "sha256"
+hash = "cf3957af4deffbe7243a7133f41c1c6f24d7ea89b75602ccbfb95ce626d2e492"

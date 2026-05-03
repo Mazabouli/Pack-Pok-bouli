@@ -1,0 +1,8 @@
+name = "SnowRealMagic-1.21.1-Fabric-12.1.2"
+filename = "SnowRealMagic-1.21.1-Fabric-12.1.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/SnowRealMagic-1.21.1-Fabric-12.1.2.jar"
+hash-format = "sha256"
+hash = "ab5730c340ecb561f0b8c8cdd89ebdd1ab9aafee03c060ea857108859d1449a6"

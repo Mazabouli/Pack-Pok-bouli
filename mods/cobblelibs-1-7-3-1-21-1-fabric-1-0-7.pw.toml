@@ -1,0 +1,8 @@
+name = "CobbleLibs-1.7.3-1.21.1-fabric-1.0.7"
+filename = "CobbleLibs-1.7.3-1.21.1-fabric-1.0.7.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/CobbleLibs-1.7.3-1.21.1-fabric-1.0.7.jar"
+hash-format = "sha256"
+hash = "46025ee725f433cfc24fa759f9e082b4d2bd9933bf549b78e0d35b4824922b12"

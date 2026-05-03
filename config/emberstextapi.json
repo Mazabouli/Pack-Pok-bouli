@@ -1,0 +1,19 @@
+{
+  "welcomeMessageEnabled": false,
+  "immersiveMessagesEnabled": true,
+  "disabledEffects": [],
+  "markupPermissionMode": "NONE",
+  "markupPlayerList": [],
+  "maxMessageDuration": 0,
+  "maxActiveMessages": 0,
+  "anvilNameMaxLength": 50,
+  "maxServerMessageDuration": 1200,
+  "maxServerActiveMessages": 10,
+  "maxQueueSize": 50,
+  "allowedEffects": [],
+  "disallowedMarkupTags": [],
+  "reduceMotion": false,
+  "maxNeonQuality": 3,
+  "textLayoutCacheSize": 256,
+  "sdfEnabled": true
+}

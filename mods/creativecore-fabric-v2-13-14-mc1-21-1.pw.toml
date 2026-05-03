@@ -1,0 +1,8 @@
+name = "CreativeCore_FABRIC_v2.13.14_mc1.21.1"
+filename = "CreativeCore_FABRIC_v2.13.14_mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Mazabouli/Pack-Pokebouli/releases/download/Mods/CreativeCore_FABRIC_v2.13.14_mc1.21.1.jar"
+hash-format = "sha256"
+hash = "c07f322040671f7708a51cda16b81375b24cf313669ebd562e0e8dd4ff4ed3eb"
